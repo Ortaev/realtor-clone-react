@@ -5,7 +5,9 @@
 body{
     background-color: rgb(240, 253, 244);
 }
-
+header{
+    background-color:  #212529;
+}
 .swiper-button-next:after,
 .swiper-button-prev:after{
     color: #a8dadc;
